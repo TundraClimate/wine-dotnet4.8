@@ -19,3 +19,7 @@ wine "C:\\windows\\Microsoft.NET\\Framework\\v4.0.30319\\MSBuild.exe" {{Project}
 ```
 
 ビルドコマンド
+
+`C://Program Files/Reference Assemblies/Microsoft/Framework/.NETFramework/v4.8/`
+
+にdotnet48のアセンブリがあるからVBから輸送してくれば参照関連は全部解決した
